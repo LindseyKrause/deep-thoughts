@@ -1,0 +1,21 @@
+{
+  "name": "deep-thoughts",
+  "version": "1.0.0",
+  "description": "MERN stack Social Media App using GraphQL, Apollo, JWT",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindseyKrause/deep-thoughts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindseyKrause/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/LindseyKrause/deep-thoughts#readme"
+}
